@@ -2,7 +2,7 @@
 	"projects": [
 		{
 			"id": 0,
-			"name": "Quote Generator",
+			"project_name": "Quote Generator",
 			"description": "This is a simple webpage that uses Javascript to load a random quote.",
 			"technologies": ["javascript"],
 			"live_link": "https://jkennaly.github.io/unit-01/",
@@ -18,7 +18,7 @@
 		},
 		{
 			"id": 1,
-			"name": "Student Directory",
+			"project_name": "Student Directory",
 			"description": "This web page breaks up a long list of students into pages and allows them to be searched.",
 			"technologies": ["javascript"],
 			"live_link": "https://jkennaly.github.io/unit-02/",
@@ -34,7 +34,7 @@
 		},
 		{
 			"id": 2,
-			"name": "Registration Form",
+			"project_name": "Registration Form",
 			"description": "This project is to validate a complex html form, plus provide some features to simplify the entry process.",
 			"technologies": ["javascript", "jQuery"],
 			"live_link": "https://jkennaly.github.io/unit-03/",
@@ -50,7 +50,7 @@
 		},
 		{
 			"id": 3,
-			"name": "Phrase Hunter",
+			"project_name": "Phrase Hunter",
 			"description": "Phrase Hunter is a browser-based game with gameplay similar to hangman.",
 			"technologies": ["javascript", "jQuery", "classes", "oop"],
 			"live_link": "https://jkennaly.github.io/unit-04/",
@@ -66,7 +66,7 @@
 		},
 		{
 			"id": 4,
-			"name": "Employee Directory",
+			"project_name": "Employee Directory",
 			"description": "This page displays an employee directory, using data requested from a public API.",
 			"technologies": ["javascript", "jQuery", "api", "randomuser.me"],
 			"live_link": "https://jkennaly.github.io/unit-05/",
@@ -82,7 +82,7 @@
 		},
 		{
 			"id": 5,
-			"name": "FestivalTime",
+			"project_name": "FestivalTime",
 			"description": "Like Uber but for music festivals. (free signup required)",
 			"technologies": [
 				"javascript", "mithril", "cloudinary", "dragula", "moment",
