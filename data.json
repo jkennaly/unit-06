@@ -1,0 +1,105 @@
+{
+	"projects": [
+		{
+			"id": 0,
+			"name": "Quote Generator",
+			"description": "This is a simple webpage that uses Javascript to load a random quote.",
+			"technologies": ["javascript"],
+			"live_link": "https://jkennaly.github.io/unit-01/",
+			"github_link": "https://github.com/jkennaly/unit-01/",
+			"order": 14,
+			"image_urls": [
+				"/static/images/quotes-0.png",
+				"/static/images/quotes-1.png",
+				"/static/images/quotes-2.png",
+				"/static/images/quotes-3.png"
+			]
+			
+		},
+		{
+			"id": 1,
+			"name": "Student Directory",
+			"description": "This web page breaks up a long list of students into pages and allows them to be searched.",
+			"technologies": ["javascript"],
+			"live_link": "https://jkennaly.github.io/unit-02/",
+			"github_link": "https://github.com/jkennaly/unit-02/",
+			"order": 13,
+			"image_urls": [
+				"/static/images/students-0.png",
+				"/static/images/students-1.png",
+				"/static/images/students-2.png",
+				"/static/images/students-3.png"
+			]
+			
+		},
+		{
+			"id": 2,
+			"name": "Registration Form",
+			"description": "This project is to validate a complex html form, plus provide some features to simplify the entry process.",
+			"technologies": ["javascript", "jQuery"],
+			"live_link": "https://jkennaly.github.io/unit-03/",
+			"github_link": "https://github.com/jkennaly/unit-03/",
+			"order": 12,
+			"image_urls": [
+				"/static/images/register-0.png",
+				"/static/images/register-1.png",
+				"/static/images/register-2.png",
+				"/static/images/register-3.png"
+			]
+			
+		},
+		{
+			"id": 3,
+			"name": "Phrase Hunter",
+			"description": "Phrase Hunter is a browser-based game with gameplay similar to hangman.",
+			"technologies": ["javascript", "jQuery", "classes", "oop"],
+			"live_link": "https://jkennaly.github.io/unit-04/",
+			"github_link": "https://github.com/jkennaly/unit-04/",
+			"order": 11,
+			"image_urls": [
+				"/static/images/hunter-0.png",
+				"/static/images/hunter-1.png",
+				"/static/images/hunter-2.png",
+				"/static/images/hunter-3.png"
+			]
+			
+		},
+		{
+			"id": 4,
+			"name": "Employee Directory",
+			"description": "This page displays an employee directory, using data requested from a public API.",
+			"technologies": ["javascript", "jQuery", "api", "randomuser.me"],
+			"live_link": "https://jkennaly.github.io/unit-05/",
+			"github_link": "https://github.com/jkennaly/unit-05/",
+			"order": 10,
+			"image_urls": [
+				"/static/images/employees-0.png",
+				"/static/images/employees-1.png",
+				"/static/images/employees-2.png",
+				"/static/images/employees-3.png"
+			]
+			
+		},
+		{
+			"id": 5,
+			"name": "FestivalTime",
+			"description": "Like Uber but for music festivals. (free signup required)",
+			"technologies": [
+				"javascript", "mithril", "cloudinary", "dragula", "moment",
+				"moment-timezone", "smart-search", "localforage", "webpack",
+				"service worker", "workbox",
+				"nodejs", "express", "loopback", "auth0", "mysql"
+			],
+			"live_link": "https://immense-ridge-26505.herokuapp.com",
+			"github_link": "https://github.com/jkennaly/ft-client-18",
+			"order": 1,
+			"image_urls": [
+				"/static/images/festival-0.png",
+				"/static/images/festival-1.png",
+				"/static/images/festival-2.png",
+				"/static/images/festival-3.png"
+			]
+			
+		}
+	]
+}
